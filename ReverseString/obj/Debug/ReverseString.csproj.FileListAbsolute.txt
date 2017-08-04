@@ -1,0 +1,6 @@
+D:\Dropbox\Random Stuff\Code\VisualStudio\ReverseString\ReverseString\bin\Debug\ReverseString.exe.config
+D:\Dropbox\Random Stuff\Code\VisualStudio\ReverseString\ReverseString\bin\Debug\ReverseString.exe
+D:\Dropbox\Random Stuff\Code\VisualStudio\ReverseString\ReverseString\bin\Debug\ReverseString.pdb
+D:\Dropbox\Random Stuff\Code\VisualStudio\ReverseString\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
+D:\Dropbox\Random Stuff\Code\VisualStudio\ReverseString\ReverseString\obj\Debug\ReverseString.exe
+D:\Dropbox\Random Stuff\Code\VisualStudio\ReverseString\ReverseString\obj\Debug\ReverseString.pdb
